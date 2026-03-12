@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 namespace ApnaBank.Properties {
-    
+     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.1.0.0")]

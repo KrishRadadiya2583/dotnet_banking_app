@@ -18,7 +18,7 @@ namespace ApnaBank
         public static String password { get; set; }
         public static Users_DB user { get; set; }
         public static void  CreateSession(Users_DB user1)
-        {
+        { 
             id = user1.id;
             fname = user1.fname;
             lname = user1.lname;

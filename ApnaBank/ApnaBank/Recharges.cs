@@ -16,7 +16,7 @@ namespace ApnaBank
         {
             InitializeComponent();
         }
-
+ 
         private void button1_Click(object sender, EventArgs e)
         {
             int amt = int.Parse(txt_amt.Text);

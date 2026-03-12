@@ -19,7 +19,7 @@ namespace ApnaBank
 
         private void SignUp_Load(object sender, EventArgs e)
         {
-
+ 
         }
 
         private void button2_Click(object sender, EventArgs e)

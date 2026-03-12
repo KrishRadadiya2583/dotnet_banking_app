@@ -8,7 +8,7 @@ using System.Windows.Forms;
 namespace ApnaBank
 {
     class Transaction_DB
-    {
+    { 
         public string date { get; set; }
         public string desc { get; set; }
         public string credit { get; set; }

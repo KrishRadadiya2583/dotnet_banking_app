@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace ApnaBank
 {
     public partial class PayGas : Form
-    {
+    { 
         public PayGas()
         {
             InitializeComponent();

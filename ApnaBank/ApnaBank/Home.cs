@@ -12,7 +12,7 @@ namespace ApnaBank
 {
     public partial class Home : Form
     {
-        public Home()
+        public Home() 
         {
             InitializeComponent();
         }

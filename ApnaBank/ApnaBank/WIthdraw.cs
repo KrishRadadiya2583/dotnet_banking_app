@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace ApnaBank
 {
-    public partial class WIthdraw : Form
+    public partial class WIthdraw : Form 
     {
         public WIthdraw()
         {

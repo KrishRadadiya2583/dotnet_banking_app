@@ -20,7 +20,7 @@ namespace ApnaBank
             if (conn.State != ConnectionState.Open)
             {
                 conn.Open();
-            }
+            } 
         } 
         public void closeConnection()
         {

@@ -9,7 +9,7 @@ namespace ApnaBank
     class Account_DB
     {
         private string id { get; set; }
-        private string userid { get; set; }
+        private string userid { get; set; } 
         private string balance { get; set; } 
 
         public void insertBalanceForNew(Users_DB user,int bal)
